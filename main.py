@@ -20,8 +20,10 @@ def bubbleSort(unsortedList):
 def insertionSort(unsortedList):
     pass
 
+
 def selectionSort(unsortedList):
     pass
+
 
 def quickSort(unsortedList):
     pass
