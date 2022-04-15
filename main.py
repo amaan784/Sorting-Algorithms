@@ -23,7 +23,7 @@ def insertionSort(unsortedList):
 def selectionSort(unsortedList):
     pass
 
-def quickSort():
+def quickSort(unsortedList):
     pass
 
 
