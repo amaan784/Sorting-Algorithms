@@ -27,6 +27,11 @@ def insertionSort(unsortedList):
 
 
 def selectionSort(unsortedList):
+    """
+
+    :param unsortedList: an unsorted list
+    :return: a sorted list
+    """
     pass
 
 
